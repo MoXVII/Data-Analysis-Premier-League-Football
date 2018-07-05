@@ -14,7 +14,7 @@ This project makes use of elements from Big Data and Predictive Analytics with t
 * [Sublime Text 3](https://www.sublimetext.com) - Text editor used alongside Jupyter Notebook through duration of project.
 
 
-##Task1_sol.py
+## Task1_sol.py
 * Features reading of input CSV files into a dataframe using Pandas.
 * Cleaning of data to remove entries with no existent infromation or null values
 * Describing the data which displays relevant information such as number of entries,mean, standard deviations and quartiles.
@@ -22,7 +22,7 @@ This project makes use of elements from Big Data and Predictive Analytics with t
 * Using the information gathered, simulate the outcome of pitting two football teams together as a poisson distribution
 * Printing the outcome of simulating 500 games between both teams to the user.
 
-##Task2_sol.py
+## Task2_sol.py
 * Producing the required dataframes after reading input CSV files using Pandas.
 * Cleaning and normalising data
 * Calculating a 5 day moving average in order to make predictions using the model.
